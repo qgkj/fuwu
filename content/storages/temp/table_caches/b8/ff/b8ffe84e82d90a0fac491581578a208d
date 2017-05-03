@@ -1,0 +1,1 @@
+1493788223a:2:{s:8:"goods_id";a:6:{s:5:"field";s:8:"goods_id";s:4:"type";s:21:"mediumint(8) unsigned";s:4:"null";s:2:"NO";s:3:"key";b:1;s:7:"default";s:1:"0";s:5:"extra";s:0:"";}s:6:"cat_id";a:6:{s:5:"field";s:6:"cat_id";s:4:"type";s:20:"smallint(5) unsigned";s:4:"null";s:2:"NO";s:3:"key";b:1;s:7:"default";s:1:"0";s:5:"extra";s:0:"";}}
